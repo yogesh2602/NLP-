@@ -1,4 +1,4 @@
-# NLP-
+# Natural Language Processing using Python
 
 The repository contains two Jupyter notebooks.
 
